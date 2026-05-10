@@ -42,7 +42,7 @@ git clone https://github.com/Gabzkk/audioEx.git
 Go into the project folder:
 
 ```bash
-cd audio-stego-tool
+cd audioEx
 ```
 
 Install dependencies:
@@ -68,7 +68,7 @@ Install:
 Then run:
 
 ```powershell
-python audio_stego.py
+python audioEX.py
 ```
 
 ---
